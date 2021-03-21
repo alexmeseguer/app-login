@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "curso-redux-app-completa": {
+      "hosting": {
+        "app-completa": [
+          "curso-redux-app-completa"
+        ]
+      }
+    }
+  }
+}
